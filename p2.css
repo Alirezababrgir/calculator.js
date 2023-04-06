@@ -1,0 +1,35 @@
+#calculator-display{
+    border-radius: 5px;
+    height: 100px;
+    font-size: xx-large;
+}
+#button-clear{
+    background-color: cornflowerblue;
+}
+div{
+    padding: 20px;
+}
+.container-sm{
+    border: 1px solid black;
+    border-radius: 6px;
+    width: 500px;
+    height: 720px;
+   
+ 
+}
+.col{
+    border:1px solid black ;
+    border-radius: 2px;
+    font-size: xx-large;
+    cursor: pointer;
+}
+#logo{
+    font-size: x-large;
+    font-style: oblique;
+}
+#button-equals{
+    background-color: cornflowerblue;
+}
+#numbers{
+    background-color: rgb(63, 61, 61);
+}
